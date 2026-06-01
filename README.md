@@ -5,6 +5,7 @@ Website **Curriculum Vitae (CV)** pribadi berbasis web statis yang menampilkan r
 Proyek ini dikerjakan untuk **Ujian Tengah Semester (UTS) — Pemrograman Web I**.
 
 🔗 **Live demo:** [https://cv.ashafizullah.com](https://cv.ashafizullah.com/)
+🎬 **Video demo (YouTube):** [https://youtu.be/hO7Fx1kNfUg](https://youtu.be/hO7Fx1kNfUg)
 
 ## Identitas
 
